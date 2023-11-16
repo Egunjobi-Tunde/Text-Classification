@@ -12,6 +12,6 @@ SpaCy, a popular NLP library, was used to clean and preprocess the data. This in
 TF-iDF was used to vectorize the data: conversion of Text to Vectors of figures
 
 ### Dataset and DataLoader
-The Pytorch dataset and Dataloader were used to load the vectors and labels into batch sizes in the train and test datasets.
+The Pytorch dataset and Dataloader were used to load the vectors and thelabels into batch sizes in the train and test datasets.
 ### Model
 A Multi-Layer Perceptron in Pytorch was designed and trained to classify the reviews into positive and negative reviews.
